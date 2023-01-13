@@ -1,0 +1,48 @@
+.body{
+    background: #fff;
+    font-family: inherit;
+}
+.m{
+    border: 2px solid #dadde1;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 11px;
+}
+.select{
+    width:32%;
+}
+.first{
+    width:42%;
+    display:inline-block
+}
+.second{
+    width: 97%;
+}
+h3{
+    padding-top: 0px;
+    padding-left: 15%;
+    
+}
+.radio{
+    border: 1px solid grey;
+    width: 31%;
+    display: inline-block;
+}
+.small{
+    font-size: xx-small;
+}
+.button{
+    margin-left: 30%;
+    color: #dadde1;
+    background-color: green;
+    width: 40%;
+    border-color: #fff;
+    border-radius: 10%;
+}
+#account{
+    padding-left: 28%;
+}
+.facebook{
+    padding-left: 38%;
+    width: 25%;
+}
